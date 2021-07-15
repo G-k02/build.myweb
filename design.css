@@ -1,0 +1,115 @@
+div>img{height:8cm;
+    width: 100%;
+padding-top: 10px;}
+nav{
+    min-height: min-content;
+}
+p{
+    
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: large;}
+*{margin: 0%;
+    padding: 0%;
+
+    }
+    
+    
+
+.style{
+   height:5cm;
+   padding: 20px;;
+   text-align: center;
+   background-color: #bfd5fd;
+   
+  
+   
+}
+
+.navbar-light{
+background-color: lightsteelblue;
+}
+nav>img{
+    height:50px;
+    padding-left: 10px;
+    justify-content: space-between;
+    
+
+   
+}
+
+footer{
+    height:100px;
+    width:100%;
+    background-color: rgb(161, 191, 245);
+    opacity: 70%;
+    display: flex;
+    padding: 10px;
+    text-align:center;
+}
+footer>p{
+    text-align:center;
+}
+footer>img{
+    height:30px;
+    width: 30%;
+    padding-left:30px;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#option{
+    padding-left: 0%;
+}
+#register{
+    background-color: rgb(216, 236, 252);
+}
+h1{
+   text-align: center;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   -webkit-text-stroke:1px honeydew;
+
+   color: black;
+   font-family: Georgia, sans-serif;
+  font-size: 5em;
+   
+  font-weight: bold;
+}
+#reg{
+    -webkit-text-stroke: 1px rgb(125, 208, 250);
+
+   color: black;
+}
+form{
+    background-color: white;
+}
+
+.row row-cols-1 row-cols-md-3 g-4 {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    
+     height: 10cm;}
+.mentor{
+    background-color: rgb(206, 201, 201);
+}
+.mentor>img{
+    object-fit: contain;
+}
+tr{
+    border-top: darkgray 2px solid;
+}
+thead{
+    border: solid 2px black;
+}
+
+form{
+    padding: 30px;
+}
+.container{
+    padding: 20px;
+}
+.logo{
+    height: 45px;
+}
